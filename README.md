@@ -24,6 +24,7 @@ After downloading and unzipping the dataset, the data is organized into three fo
 Two deep learning models were trained:
 1. **VGG16-based classifier**
 2. **ResNet50-based classifier**
+You can find the models saved here --> https://drive.google.com/drive/folders/1yKgcIpBDqlrOVAlZol_8s6ICJVqTpuT6?usp=sharing
 
 # Steps Involved:
 - Used **ImageDataGenerator** for data preprocessing and augmentation.
